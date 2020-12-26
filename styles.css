@@ -82,7 +82,7 @@ body {
   padding-right: 100px;
 }
 
-.img-text-wrapper .subtitle {
+.img-text-wrapper a {
   transition: 1s;
   color: transparent;
 }
@@ -92,7 +92,7 @@ body {
   filter: brightness(10%);
 }
 
-.img-text-wrapper:hover .subtitle {
+.img-text-wrapper:hover a {
   color: white;
   font-weight: 600;
 }
