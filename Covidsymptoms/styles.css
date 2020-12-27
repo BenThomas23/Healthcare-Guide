@@ -1,0 +1,101 @@
+.mild{
+  font-family: 'Redressed', cursive;
+    background-color: #c6ebc9;
+  text-align: center;
+  padding: 100px;
+}
+ul { display: inline-block; text-align: left;
+ }
+ul li{
+  font-family: 'Philosopher', sans-serif;
+}
+
+body{
+  margin: 0px
+}
+p{
+  font-family: 'Redressed', cursive;
+  font-size: 60px
+}
+.lesscommon{
+  background-color: #e5e5e5;
+  text-align: center;
+  color: black;
+  font-family: 'Redressed', cursive;
+  padding: 100px;
+  margin: 0px 0 0px 0;
+}
+.cough{
+ width: 180px;
+ height: 172.100px;
+ display: inline-block;
+ position: absolute;
+ left:  300px;
+ background-color: white;
+}
+.Throat{
+ width: 180px;
+ height: 172.100px;
+ display: inline-block;
+ position: absolute;
+ left: 300px;
+ top: 750px;
+ background-color: white;
+}
+.fever{
+ width: 180px;
+ height: 172.100px;
+ display: inline-block;
+ position: absolute;
+ right: 300px;
+ background-color: white;
+}
+.serious{
+  font-family: 'Redressed', cursive;
+    background-color: #b2ebf2;
+  text-align: center;
+    padding: 100px;
+    margin:0px 0 0px 0;
+}
+.rash{
+ width: 180px;
+ height: 172.100px;
+ display: inline-block;
+ position: absolute;
+ right:  300px;
+ top: 750px;
+ background-color: white;
+}
+.what{
+  padding: 180px 100px 100px 100px;
+  font-family: 'Redressed', cursive;
+    background-color: #4f8a8b;
+  text-align: center;
+}
+.gi{
+ width: 180px;
+ height: 172.100px;
+ display: inline-block;
+ position: absolute;
+ right:  450px;
+ top: 1500px;
+ background-color: white;
+}
+.gii{
+ width: 180px;
+ height: 172.100px;
+ display: inline-block;
+ position: absolute;
+ right:  650px;
+ top: 1500px;
+ background-color: white;
+}
+.giii{
+ width: 180px;
+ height: 172.100px;
+ display: inline-block;
+ position: absolute;
+ right:  850px;
+ top: 1500px;
+ background-color: white;
+}
