@@ -1,0 +1,37 @@
+body{
+  background-color: white;
+  margin: 0px;
+}
+.salute{
+  width: 100%;
+}
+.head{
+  background-color: #092532;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+}
+.content{
+  background-color: #ffa41b;
+  text-align: center;
+  font-family: 'Montserrat';
+  margin-bottom: 0px;
+  padding: 40px;
+  color: white;
+}
+ul { display: inline-block; text-align: left;
+ }
+ul li{
+  font-family: 'Philosopher', sans-serif;
+  font-size: 30px;
+}
+.tables{
+  background-color: #ffa41b;
+  padding:20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
