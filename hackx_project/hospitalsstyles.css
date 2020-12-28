@@ -1,0 +1,53 @@
+.quote{
+  background-color: #7d0633;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-family: 'Sacramento', cursive;
+  font-size: 30px;
+}
+body{
+  background-color: white;
+  margin: 0px;
+}
+.auth{
+  position: relative;
+  left:200px;
+}
+.desc{
+  background-color: #bedcfa;
+  margin-top: 0px;
+  text-align: center;
+  padding: 10px 20px 10px 30px;
+  color: black;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.hospimg{
+  max-width: 30%;
+  margin-left: 20px;
+  max-height: 1000px;
+}
+.maincari{
+  background-color: #ffd66b;
+  padding:20px;
+  margin-bottom: 30px;
+}
+ul { display: inline-block; text-align: left;
+ }
+ul li{
+  font-family: 'Philosopher', sans-serif;
+  font-size: 30px;
+}
+.kmcmain{
+    background-color: #c9cbff;
+    padding:20px;
+}
+.hospimg2{
+  width: 300px;
+  margin-left: 200px;
+  height: 350px;
+}
